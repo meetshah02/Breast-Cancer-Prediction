@@ -7,6 +7,9 @@ The key challenge in cancer detection is how to classify tumors into malignant o
 **2. Project Structure**
 
 Main.ipynb file contains all the main code for this project. Open that if you want to read my work.
+
 There is .pptx & .docx file which contains project Presentation & Report respectively. The report is in both word and pdf file.
+
 The data used for this project has been imported from sci-kit learn library directly, so you wont find a data file for this project and wont need to install any seperately.
+
 Finally there is a README file which you are reading right now.📖
